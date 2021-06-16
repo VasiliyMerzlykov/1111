@@ -28,9 +28,8 @@
     "webpack-dev-server": "^3.11.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --mode development --open",
-    "build": "webpack --mode production --open"
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
